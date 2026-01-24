@@ -1,7 +1,7 @@
 # AutoBuildImmortalWrt
-[![GitHub](https://img.shields.io/github/license/wukongdaily/AutoBuildImmortalWrt.svg?label=LICENSE&logo=github&logoColor=%20)](https://github.com/wukongdaily/AutoBuildImmortalWrt/blob/master/LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/wukongdaily/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Stars&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/wukongdaily/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Forks&logo=github) [![Github](https://img.shields.io/badge/RELEASE:AutoBuildImmortalWrt-123456?logo=github&logoColor=fff&labelColor=green&style=flat)](https://github.com/wukongdaily/AutoBuildImmortalWrt/releases) [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1EG6VYCER3) [![操作步骤](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/xIVtUwZR6U0)
+[![GitHub](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases%20)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
+![GitHub Stars](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
+![GitHub Forks](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![Github](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![Bilibili](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![操作步骤](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
 
 ## 🤔 这是什么？
 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
@@ -12,16 +12,16 @@
 > 5、新增全志平台R1S、香橙派Zero3等机型的工作流<br>
 > 6、新增用户预设置pppoe拨号功能<br>
 > 7、新增树莓派①②③④⑤<br>
-> 8、新增第三方软件包的集成功能 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
+> 8、新增第三方软件包的集成功能 https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 
 
 ## 如何查询imm仓库内有哪些插件
-https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/24.10.2/packages/x86_64/luci/
+https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 ## 如何查询imm仓库外目前可以集成哪些插件
-https://github.com/wukongdaily/store/tree/master/run
-> 具体方法 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
+https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+> 具体方法 https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 ## 第三方插件集成的原理详见以下视频
-https://www.youtube.com/watch?v=7i6BQeitUtE
+https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 
 ## 旁路由的用户必读
 近期不少用户修改配置文件中的默认ip地址，误认为这个工作流可以直接设置旁路ip。这是巨大的误解，这样设置就乱套了。<br>
@@ -41,27 +41,27 @@ https://www.youtube.com/watch?v=7i6BQeitUtE
 - 若用户在工作流中勾选了拨号信息 则WAN口模式为pppoe拨号模式。
 - 建议拨号用户使用之前重启一次光猫。
 - 综合上述特点，【单网口设备】应该先接路由器，先在上级路由器查看一下它的ip 再访问。
-- 上述特点 你都可以通过 `99-custom.sh` 配置和调整
+- 上述特点 你都可以通过 `https://github.com/ztdesk1/AutoBuildImmortalWrt/releases` 配置和调整
 
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 - ### [一键生成run插件] 🆕
-- https://github.com/wukongdaily/RunFilesBuilder<br>
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases<br>
 - ### [一键生成docker离线镜像] 🆕
-- https://github.com/wukongdaily/DockerTarBuilder<br>
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
-- https://github.com/wukongdaily/armbian-installer
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 
 
 ## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
-https://wkdaily.cpolar.cn/15
+https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 # 🌟鸣谢
-### https://github.com/immortalwrt
-### https://github.com/sirpdboy
-### https://github.com/wukongdaily/ib-overlay
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 
 ## ❤️赞助作者 ⬇️⬇️
 
-[![点击这里赞助我](https://img.shields.io/badge/点击这里赞助我-支持作者的项目-orange?logo=github)](https://wkdaily.cpolar.cn/01)
+[![点击这里赞助我](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases点击这里赞助我-支持作者的项目-orange?logo=github)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
 
 
 
@@ -70,10 +70,10 @@ https://wkdaily.cpolar.cn/15
 <summary><h2>🍭相关引用</h2></summary>
 
 #### 🍭引用和项目参考的仓库
-- https://github.com/wukongdaily/RunFilesBuilder
-- https://github.com/wukongdaily/store
-- https://github.com/xiaorouji/openwrt-passwall
-- https://github.com/xiaorouji/openwrt-passwall2
-- https://github.com/sirpdboy/luci-theme-kucat
-- https://github.com/AdguardTeam/AdGuardHome
-- https://github.com/kiddin9/kwrt-packages
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases

